@@ -1,2 +1,3 @@
 # SoundBytesAudio
-SoundBytes is a tool for recording lossless audio samples in WAV format. Version 3.0
+Shared Prototype version
+Records audio in .wav format as well as testing other sensors.
